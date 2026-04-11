@@ -1,0 +1,4 @@
+baseURL = 'https://codeweng.com/'
+languageCode = 'en-us'
+title = 'CodeWeng Blog'
+theme = 'awesome'
