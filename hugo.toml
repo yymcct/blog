@@ -2,3 +2,36 @@ baseURL = 'https://codeweng.com/'
 languageCode = 'en-us'
 title = 'CodeWeng Blog'
 theme = 'awesome'
+hasCJKLanguage = true
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/yymcct"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/yymcct"
+
+[params]
+  goToTop = true
+  description = "CodeWeng Blog"
+
+[[menus.main]]
+name = 'Home'
+url = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Articles'
+url = '/posts/'
+weight = 20
+
+[[menus.main]]
+name = 'Projects'
+url = '/projects/'
+weight = 30
+
+[[menus.main]]
+name = 'About'
+url = '/about/'
+weight = 40

@@ -1,3 +1,8 @@
 
 # Hugo generated output
 public/
+resources/_gen/
+
+# Hugo theme (not managed by git)
+themes/awesome/
+.workbuddy/
