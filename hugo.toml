@@ -35,3 +35,9 @@ weight = 30
 name = 'About'
 url = '/about/'
 weight = 40
+
+[params.author]
+name = "CodeWeng"
+avatar = "avatar.jpg"
+intro = "CodeWeng — Builder & Explorer"
+description = "Software Engineer · Blogger · Lifelong Learner"
