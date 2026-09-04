@@ -2,6 +2,7 @@
 title = 'Python 依赖管理进化史：从 pip 到 uv'
 slug = 'python-dependencies-the-road-to-uv'
 date = 2026-04-07T13:01:10+08:00
+description = '梳理 Python 依赖管理从 pip、requirements.txt 到 uv 的演进，以及这些工具分别解决了什么问题。'
 +++
 
 ## 背景

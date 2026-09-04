@@ -2,6 +2,7 @@
 title = '从Prompt到工作目录：理解DeepAgents的Backend设计'
 slug = 'deepagents-backend'
 date = 2026-09-04T11:24:41+08:00
+description = '从 Backend 抽象理解 Deep Agents 如何用虚拟文件系统管理工作区、临时状态和长期记忆。'
 +++
 
 # 从Prompt到工作目录：理解DeepAgents的Backend设计

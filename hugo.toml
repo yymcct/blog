@@ -1,5 +1,6 @@
 baseURL = 'https://codeweng.com/'
-locale = 'en-us'
+defaultContentLanguage = "zh-cn"
+locale = 'zh-cn'
 title = 'CodeWeng Blog'
 theme = 'awesome'
 hasCJKLanguage = true
@@ -13,9 +14,12 @@ name = "twitter"
 url = "https://x.com/yymcct"
 
 [params]
+  sitename = "CodeWeng Blog"
+  mainSections = ["posts"]
   goToTop = true
   dateFormat = "2006/01/02"
-  description = "CodeWeng Blog"
+  rssFeedDescription = "summary"
+  description = "CodeWeng 的技术博客，记录 AI Agent、后端工程、开发工具和软件设计思考。"
 
 [[menus.main]]
 name = '首页'
