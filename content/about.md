@@ -17,4 +17,6 @@ exclude_from_rss: true
 - 编程语言、依赖管理和工程实践
 - 一些阶段性的学习复盘和产品观察
 
+联系方式：[yymcct@gmail.com](mailto:yymcct@gmail.com)
+
 如果你也对“怎么把技术真正用起来”感兴趣，欢迎常来看看。
