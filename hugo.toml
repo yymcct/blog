@@ -1,5 +1,5 @@
 baseURL = 'https://codeweng.com/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'CodeWeng Blog'
 theme = 'awesome'
 hasCJKLanguage = true

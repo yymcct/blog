@@ -2,7 +2,7 @@
 # Hugo generated output / build cache
 public/
 resources/
-
+resources/_gen
 # Hugo theme (not managed by git)
 
 .workbuddy/

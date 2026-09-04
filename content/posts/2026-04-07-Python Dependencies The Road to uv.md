@@ -1,5 +1,6 @@
 +++
 title = 'Python 依赖管理进化史：从 pip 到 uv'
+slug = 'python-dependencies-the-road-to-uv'
 date = 2026-04-07T13:01:10+08:00
 +++
 
