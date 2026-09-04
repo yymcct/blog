@@ -1,7 +1,7 @@
 
-# Hugo generated output
+# Hugo generated output / build cache
 public/
-resources/_gen/
+resources/
 
 # Hugo theme (not managed by git)
 
