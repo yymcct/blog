@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "关于"
 ---
 
 你好，我是 CodeWeng。

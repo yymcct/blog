@@ -1,3 +1,7 @@
+## HOME ##
+- id: "home.recent_posts"
+  translation: "最新文章"
+
 ## FOOTER ##
 - id: "footer.disclaimer"
-  translation: ""
+  translation: " "
