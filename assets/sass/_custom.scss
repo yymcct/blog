@@ -1,0 +1,14 @@
+// 站点自定义样式（覆盖主题的空 _custom.scss）
+// 去掉鼠标点击链接时的蓝色聚焦框；键盘 Tab 导航仍保留轮廓（无障碍）
+a:focus {
+  outline: none;
+}
+
+a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+a {
+  -webkit-tap-highlight-color: transparent;
+}
