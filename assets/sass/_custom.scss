@@ -12,3 +12,36 @@ a:focus-visible {
 a {
   -webkit-tap-highlight-color: transparent;
 }
+
+.list-page .header,
+.wrapper.post .header {
+  margin-top: 3.25rem;
+  margin-bottom: 1.35rem;
+}
+
+.list-page .header-title,
+.wrapper.post .header-title {
+  font-size: 1.8em;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.list-page .page-content,
+.wrapper.post > .page-content,
+.wrapper.post article > .page-content {
+  padding-top: 0;
+}
+
+.list-page .post-year {
+  margin-top: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.posts-item-note {
+  margin-bottom: 1rem;
+}
+
+.post-item {
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+}
