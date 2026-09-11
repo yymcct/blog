@@ -1,5 +1,5 @@
 +++
-title = 'Langchain DeepAgents里的subagent，到底是怎么被主agent调起来的？'
+title = 'Langchain DeepAgents里的subagent，到底是怎么被主agent调起来的'
 slug = "langchain-deepagents-subagent-task-invocation"
 description = "主 agent 怎么调 subagent？从 task 工具原理、description 最佳实践、isolated vs fork 模式，到何时派遣子代理的完整工程指南。"
 date = 2026-09-11T19:48:24+08:00
