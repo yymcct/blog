@@ -3,15 +3,17 @@ title = 'Langchain DeepAgents里的subagent，到底是怎么被主agent调起�
 slug = "langchain-deepagents-subagent-task-invocation"
 description = "主 agent 怎么调 subagent？从 task 工具原理、description 最佳实践、isolated vs fork 模式，到何时派遣子代理的完整工程指南。"
 date = 2026-09-11T19:48:24+08:00
-draft = true
+image = "images/cover-minimal-dazibao.png"
 +++
+
+![简约手绘大字报风格封面：主 agent 通过 task 工具派遣 subagent，并汇总报告](images/cover-minimal-dazibao.png)
 
 刚开始看 Deep Agents 的 subagent 机制时，有点绕。很多文章讲 multi-agent，都会先讲一堆角色分工：主 agent 负责规划，子 agent 负责执行，最后再统一汇总。但几乎都没说清楚：
 
 **主 agent 到底是怎么 “叫” subagent 干活的？**
 
 先放一张图。后面的内容基本都围绕它展开。
-![alt text](images/call_haa1ifpmd1TFSQbX5uukmmBv.png)
+![Deep Agents 中主 agent 通过 task 工具调用 subagent 的流程图](images/call_haa1ifpmd1TFSQbX5uukmmBv.png)
 
 
 这个图里最关键的一点是：
