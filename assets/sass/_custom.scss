@@ -12,6 +12,15 @@ a:focus-visible {
 a {
   -webkit-tap-highlight-color: transparent;
 }
+.author{
+  margin-top: 7rem;
+  margin-bottom: 7rem;
+}
+.author h1.author-name {
+  font-size: 1.85em;
+  line-height: 1.35;
+  margin-top: 1em;
+}
 
 .list-page .header,
 .wrapper.post .header {
